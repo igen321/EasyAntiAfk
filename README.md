@@ -1,4 +1,4 @@
-How to use the EASYAFK script (requires AutoHotkey v1):
+How to use the EASYANTIAFK script (requires AutoHotkey v1):
 Download and install AutoHotkey v1 from https://www.autohotkey.com/
 
 
