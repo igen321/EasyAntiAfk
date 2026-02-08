@@ -11,3 +11,6 @@ Download and install AutoHotkey v1 from https://www.autohotkey.com/
 6. Logs of key presses will appear in the text box for reference.
 7. Click "Stop" to pause the script at any time.
 8. Press Esc or close the window to exit the script.
+
+Want me to add something?
+Add me on discord: nagypapi
